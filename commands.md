@@ -5,3 +5,4 @@ print(get_random_secret_key())
 pip install python-dotenv
 pip install djangorestframework
 pip install pytest #to run pytest
+pip install django-mptt
